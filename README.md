@@ -1,0 +1,2 @@
+# nvm
+node environment install
